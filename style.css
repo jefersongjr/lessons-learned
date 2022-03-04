@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+
+}
 body {
   background-color: rgb(253, 251, 251);
 }
@@ -5,7 +9,7 @@ body {
 header {
   position: fixed;
   top: 0;
-  background-color: #57CC99;
+  background-color: #57cc99;
   width: 100%;
   text-align: center;
 }
@@ -14,21 +18,25 @@ header {
   list-style: none;
 }
 
-main{
-  padding-top: 150px;
+main {
+  padding: 100px 15px 30px;
 }
 
-div{
+div {
   display: inline-block;
   width: 30%;
 }
 
-#rodape a{
-border: 1px solid #22577A;
-margin: 5px;
-padding: 10px;
-border-radius: 20%;
-text-align: center;
-background-color: #C7F9CC;
-color: #22577A;
+#rodape{
+  background-color: #57CC99;
+  height: 50px;
+  text-align: center;
+}
+
+#rodape a {
+  border: 1px solid #22577a;
+  padding: 10px;
+  border-radius: 20%;
+  background-color: #c7f9cc;
+  color: #22577a;
 }
