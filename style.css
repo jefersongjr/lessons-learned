@@ -1,7 +1,7 @@
 *{
   margin: 0;
-
 }
+
 body {
   background-color: rgb(253, 251, 251);
 }
@@ -29,14 +29,16 @@ div {
 
 #rodape{
   background-color: #57CC99;
-  height: 50px;
+  height: 80px;
   text-align: center;
 }
 
 #rodape a {
+  position: relative;
   border: 1px solid #22577a;
   padding: 10px;
   border-radius: 20%;
   background-color: #c7f9cc;
   color: #22577a;
+  top: 30px;
 }
