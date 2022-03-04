@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
 }
 
@@ -27,8 +27,8 @@ div {
   width: 30%;
 }
 
-#rodape{
-  background-color: #57CC99;
+#rodape {
+  background-color: #57cc99;
   height: 80px;
   text-align: center;
 }
