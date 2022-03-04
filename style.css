@@ -1,13 +1,9 @@
-*{
-    padding: 0;
-    margin: 0;
+* {
+  padding: 0;
+  margin: 0;
+  background-color: rgb(253, 251, 251);
 }
-body {
-    height: 800px;
-    background-color: rgb(253, 251, 251);
-}
-
 header {
-    position: absolute;
-    top: 0;
+  position: fixed;
+  top: 0;
 }
