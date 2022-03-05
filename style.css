@@ -78,25 +78,25 @@ table td:nth-child(odd) {
   font-weight: bold;
 }
 
-div ol, div ul {
+div ol,
+div ul {
   line-height: 30px;
 }
 
-section{
+section {
   min-height: 150px;
   padding-top: 50px;
 }
 
-.lado-esquerdo{
+.lado-esquerdo {
   width: 300px;
   display: inline-block;
   background-color: #83c5be;
 }
 
-.lado-direito{
+.lado-direito {
   width: 150px;
   display: inline-block;
   background-color: #83c5be;
-  margin-left:150px ;
-  
+  margin-left: 150px;
 }
