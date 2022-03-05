@@ -18,7 +18,7 @@ header {
   list-style-type: none;
 }
 
-#cabecalho  li {
+#cabecalho li {
   display: inline;
   margin: 5px;
 }
@@ -76,4 +76,8 @@ table td:nth-child(even) {
 table td:nth-child(odd) {
   color: #1b4332;
   font-weight: bold;
+}
+
+div ol, div ul {
+  line-height: 30px;
 }
