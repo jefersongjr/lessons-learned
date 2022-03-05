@@ -28,7 +28,7 @@ header {
   color: #081c15;
 }
 main {
-  padding: 100px 15px 30px;
+  padding: 80px 15px 30px;
 }
 
 div {
@@ -80,4 +80,23 @@ table td:nth-child(odd) {
 
 div ol, div ul {
   line-height: 30px;
+}
+
+section{
+  min-height: 150px;
+  padding-top: 50px;
+}
+
+.lado-esquerdo{
+  width: 300px;
+  display: inline-block;
+  background-color: #83c5be;
+}
+
+.lado-direito{
+  width: 150px;
+  display: inline-block;
+  background-color: #83c5be;
+  margin-left:150px ;
+  
 }
