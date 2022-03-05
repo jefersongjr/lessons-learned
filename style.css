@@ -14,10 +14,19 @@ header {
   text-align: center;
 }
 
-#cabecalho lu {
-  list-style: none;
+#cabecalho nav ul {
+  list-style-type: none;
 }
 
+#cabecalho  li {
+  display: inline;
+  margin: 5px;
+}
+
+#cabecalho nav a {
+  text-decoration: none;
+  color: #081c15;
+}
 main {
   padding: 100px 15px 30px;
 }
@@ -43,6 +52,11 @@ div {
   top: 30px;
 }
 
+#rodape a:hover {
+  background-color: #184e77;
+  color: aliceblue;
+}
+
 #tabela {
   width: 300px;
   height: 300px;
@@ -50,16 +64,16 @@ div {
   font-size: 35px;
 }
 
-table{
-  background-color: #83c5be ;
+table {
+  background-color: #83c5be;
   border-style: dotted;
   border-color: aliceblue;
 }
 
-table td:nth-child(even){
+table td:nth-child(even) {
   color: white;
 }
-table td:nth-child(odd){
+table td:nth-child(odd) {
   color: #1b4332;
   font-weight: bold;
 }
