@@ -42,3 +42,24 @@ div {
   color: #22577a;
   top: 30px;
 }
+
+#tabela {
+  width: 300px;
+  height: 300px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 35px;
+}
+
+table{
+  background-color: #83c5be ;
+  border-style: dotted;
+  border-color: aliceblue;
+}
+
+table td:nth-child(even){
+  color: white;
+}
+table td:nth-child(odd){
+  color: #1b4332;
+  font-weight: bold;
+}
