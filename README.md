@@ -6,6 +6,8 @@
 **Lessons Learned** Foi o primeiro projeto desenvolvido por mim [Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/), 
 trabalhando conceitos de Html 5, Html Semântico e Css3.
 
+veja o resultado clicando [Aqui](https://lessons-learned-pi.vercel.app/)
+
 
 ## 🛠️ Construído com: 
 
