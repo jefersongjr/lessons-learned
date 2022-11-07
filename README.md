@@ -1,10 +1,18 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Lessons Learned
+
+
+##  🚀📋 Sobre:
+
+**Lessons Learned** Foi o primeiro projeto desenvolvido por mim[Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/), 
+trabalhando conceitos de Html 5, Html Semântico e Css3.
+
+
+## 🛠️ Construído com: 
+
+* HTML5
+* CSS3
+
+## :computer: Skills Desenvolvidas:
+
+* Desenvolvimento de uma página estática utilizando conceitos de HTML Semântico
+* Estilização de uma página web Utilizando CSS
