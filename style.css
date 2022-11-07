@@ -3,15 +3,19 @@
 }
 
 body {
-  background-color: rgb(253, 251, 251);
+  background-color: rgb( 253, 251, 251 );
 }
 
 header {
   position: fixed;
   top: 0;
-  background-color: #57cc99;
+  background-color: rgb( 87, 204, 153 );
   width: 100%;
   text-align: center;
+}
+
+div ol , div ul {
+  line-height: 30px;
 }
 
 #cabecalho nav ul {
@@ -23,10 +27,21 @@ header {
   margin: 5px;
 }
 
+#rodape a {
+  position: relative;
+  border: 1px solid rgb( 4, 87, 122 );
+  padding: 10px;
+  border-radius: 20%;
+  background-color: rgb( 199, 249, 204 );
+  color: rgb( 34, 87, 122 );
+  top: 30px;
+}
+
 #cabecalho nav a {
   text-decoration: none;
-  color: #081c15;
+  color: rgb( 8, 28, 21 );
 }
+
 main {
   padding: 80px 15px 30px;
 }
@@ -37,23 +52,13 @@ div {
 }
 
 #rodape {
-  background-color: #57cc99;
+  background-color: rgb( 87, 204, 153 );
   height: 80px;
   text-align: center;
 }
 
-#rodape a {
-  position: relative;
-  border: 1px solid #22577a;
-  padding: 10px;
-  border-radius: 20%;
-  background-color: #c7f9cc;
-  color: #22577a;
-  top: 30px;
-}
-
 #rodape a:hover {
-  background-color: #184e77;
+  background-color: rgb( 24, 78, 119 );
   color: aliceblue;
 }
 
@@ -65,22 +70,18 @@ div {
 }
 
 table {
-  background-color: #83c5be;
+  background-color: rgb( 131, 197, 190 );
   border-style: dotted;
   border-color: aliceblue;
 }
 
-table td:nth-child(even) {
+table td:nth-child( even ) {
   color: white;
 }
-table td:nth-child(odd) {
-  color: #1b4332;
-  font-weight: bold;
-}
 
-div ol,
-div ul {
-  line-height: 30px;
+table td:nth-child( odd ) {
+  color: rgb( 27, 67, 50 );
+  font-weight: 900;
 }
 
 section {
@@ -91,12 +92,12 @@ section {
 .lado-esquerdo {
   width: 300px;
   display: inline-block;
-  background-color: #83c5be;
+  background-color: rgb( 131, 197, 190 );
 }
 
 .lado-direito {
   width: 150px;
   display: inline-block;
-  background-color: #83c5be;
+  background-color: rgb( 131, 197, 190 );
   margin-left: 150px;
 }
