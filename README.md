@@ -3,7 +3,7 @@
 
 ##  🚀📋 Sobre:
 
-**Lessons Learned** Foi o primeiro projeto desenvolvido por mim[Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/), 
+**Lessons Learned** Foi o primeiro projeto desenvolvido por mim [Jeferson Gomes](https://www.linkedin.com/in/jefersongjr/), 
 trabalhando conceitos de Html 5, Html Semântico e Css3.
 
 
